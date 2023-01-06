@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sayeda-chattopadhyay/managing-secrets-workflow/issues"
   },
-  "homepage": "https://github.com/sayeda-chattopadhyay/managing-secrets-workflow#readme"
+  "homepage": "https://github.com/sayeda-chattopadhyay/managing-secrets-workflow#readme",
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  }
 }
